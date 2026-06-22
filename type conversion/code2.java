@@ -16,6 +16,6 @@ public class code2 {
         // Float + integer  --> float - double --> double
 
        System.out.println((f *b) + " + " +( i / c) + " - " + ( d * 5));
-       System.out.println("Result :" + result);
+       System.out.println("Result :" + result); 
     }
 }
