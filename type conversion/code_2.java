@@ -1,4 +1,4 @@
-public class code2 {
+public class code_2 {
     public static void main(String[] agrs){
         byte b = 42;
         char c = 'a';
