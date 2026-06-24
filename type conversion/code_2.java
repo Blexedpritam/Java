@@ -7,7 +7,7 @@ public class code_2 {
         float f =5.6f;
         double d = .1234;
 
-        double result = (f * b) + (i / c) - (d * 5);
+        double result = (f * b) + (i / c) - (d * s);
         
         //f * b --> float 
         // i / c --> integer 
@@ -15,7 +15,7 @@ public class code_2 {
 
         // Float + integer  --> float - double --> double
 
-       System.out.println((f *b) + " + " +( i / c) + " - " + ( d * 5));
+       System.out.println((f *b) + " + " +( i / c) + " - " + ( d * s));
        System.out.println("Result :" + result); 
     }
 }
