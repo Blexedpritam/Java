@@ -93,7 +93,7 @@ public class Demo3 {
         //Labels
 
         first: for(int i = 1; i <=10; i++){
-            second: for(int j = 1; j <=i ;j++){
+             for(int j = 1; j <=i ;j++){
                 System.out.print("*");
 
                 if(j >=5){
