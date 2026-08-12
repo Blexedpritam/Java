@@ -3,7 +3,7 @@
 public class Demo2 {
     public static void main(String[] args) {
         Random r1 = new Random(4, 5);
-        Random r2 = new Random(r1);
+        // Random r2 = new Random(r1);
 
         System.out.println(r1.x + " , " + r1.y);
 
