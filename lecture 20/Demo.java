@@ -7,6 +7,14 @@ public class Demo {
             PrintSream --> println()
         
         */
+
+         System.err.println("bye");
+         /*
+            err --> error
+            out --> output
+         
+         */
+        
     }
 }
 
