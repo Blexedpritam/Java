@@ -15,7 +15,7 @@ public class Demo2 {
 interface MathConstant{
     double PI_VALUE = 3.14;
    //Complier -->public static final double PI_VALUE = 3.14;
-    int value = 10;
+    int VALUE = 10;
     void fun();
 }
 
