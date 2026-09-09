@@ -9,7 +9,7 @@ public class Demo3 {
 
         System.out.println(box.getValue() + 5);
         System.out.println(box2.getValue() +  " Pritam , Kya haal hai ");
-        System.out.println(box.getValue());
+        System.out.println(box3.getValue());
 
 
     }    
