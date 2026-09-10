@@ -2,7 +2,7 @@ public class Demo7 {
     public static void main(String[] args) {
         // Box<Fish> box = new Box<>();
 
-        Box<Animal> box = new Box<>();
+        // Box<Animal> box = new Box<>();
 
 
     }
