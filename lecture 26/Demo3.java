@@ -35,7 +35,7 @@ public class Demo3 {
         stringBuilder.setCharAt(3, 'r');
         System.out.println(stringBuilder);
 
-
+   
         //length()
         System.out.println(stringBuilder.length());
         //capacity()
